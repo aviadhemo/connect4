@@ -1,0 +1,11 @@
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\bin\Debug\Ex05.Connect4.UI.exe.config
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\bin\Debug\Ex05.Connect4.UI.exe
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\bin\Debug\Ex05.Connect4.UI.pdb
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\bin\Debug\Ex05.Connect4.Logic.dll
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\bin\Debug\Ex05.Connect4.Logic.pdb
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\obj\Debug\Ex05.Connect4.UI.csprojResolveAssemblyReference.cache
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\obj\Debug\Ex05.Connect4.UI.GameSettingDialog.resources
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\obj\Debug\Ex05.Connect4.UI.MainGameForm.resources
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\obj\Debug\Ex05.Connect4.UI.csproj.GenerateResource.Cache
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\obj\Debug\Ex05.Connect4.UI.exe
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.UI\obj\Debug\Ex05.Connect4.UI.pdb

@@ -1,0 +1,6 @@
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.Logic\bin\Debug\Ex05.Connect4.Logic.dll.config
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.Logic\bin\Debug\Ex05.Connect4.Logic.dll
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.Logic\bin\Debug\Ex05.Connect4.Logic.pdb
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.Logic\obj\Debug\Ex05.Connect4.Logic.csprojResolveAssemblyReference.cache
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.Logic\obj\Debug\Ex05.Connect4.Logic.dll
+D:\MegaCloud\C#\MyProjects\B16 Ex05 AviadHemo 200541001 ItamarMuslvi 302927017\Ex05.Connect4.Logic\obj\Debug\Ex05.Connect4.Logic.pdb
